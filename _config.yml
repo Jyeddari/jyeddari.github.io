@@ -14,7 +14,7 @@ logo: #"/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/becomingjane.jpeg"
+cover: "/assets/images/becomingjane.jpg"
 
 name: 'Juhye Park'
 author: 'Juhye Park'
